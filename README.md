@@ -1,4 +1,4 @@
 # My FirstPro
 This is my first Git Repository.
-<br>
+<hr>
 Author-Khushi Chouhan
